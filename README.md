@@ -3,7 +3,6 @@
 `Browse Packags` 下面的`user`文件夹如果你是OS系统，可以覆盖它。
 如果你是`windows`系统的需要修改下文件名:
 
->Package Control
->Preferences
+`Package Control`和`Preferences`
 
 欢迎大家提供更多好用的插件和配置。
